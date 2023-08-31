@@ -34,3 +34,6 @@ Program.cs: Entry point of the console application.
 DependencyInjection.cs: Configures dependency injection using Microsoft.Extensions.DependencyInjection.
 Models: Contains model classes for Pokémon, type effectiveness, and API resources.
 Services: Contains service interfaces and implementations for fetching Pokémon and type effectiveness data.
+### Example Output:
+![image](https://github.com/rahulvuppla/PokemonAPIConsoleApp/assets/79802988/38ace129-5cf6-40e8-ab41-58ae513df90f)
+
