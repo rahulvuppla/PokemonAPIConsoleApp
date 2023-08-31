@@ -20,7 +20,7 @@ Each Pokémon has one or more types (e.g., ground, electric, water), and their a
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/PokemonTypeEffectiveness.git
+   https://github.com/rahulvuppla/PokemonAPIConsoleApp.git
 Open the solution file ConsoleAppDI.sln in Visual Studio or your preferred code editor.
 
 Build the solution to restore NuGet packages and compile the project.
