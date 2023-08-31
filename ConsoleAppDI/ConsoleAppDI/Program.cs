@@ -16,10 +16,13 @@ class Program
     static async Task RunProgram(IPokemonService pokemonService, ITypeEffectivenessService typeEffectivenessService)
     {
         Console.Write("Enter a Pokémon name: ");
-        string pokemonName = Console.ReadLine();
+        string pokemonName;
+        while (string.IsNullOrWhiteSpace(pokemonName = Console.ReadLine()))
+            Console.WriteLine("Enter a value for pokemon name:");
 
         try
         {
+            if (pokemonName == null) { }
             Pokemon pokemon = await pokemonService.GetPokemonAsync(pokemonName.ToLower());
             if (pokemon != null)
             {

@@ -22,3 +22,27 @@ C:\Users\rahul\Downloads\ConsoleAppPokemonDI\ConsoleAppDI\obj\Debug\net6.0\refin
 C:\Users\rahul\Downloads\ConsoleAppPokemonDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.pdb
 C:\Users\rahul\Downloads\ConsoleAppPokemonDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.genruntimeconfig.cache
 C:\Users\rahul\Downloads\ConsoleAppPokemonDI\ConsoleAppDI\obj\Debug\net6.0\ref\ConsoleAppDI.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\ConsoleAppDI.exe
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\ConsoleAppDI.deps.json
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\ConsoleAppDI.runtimeconfig.json
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\ConsoleAppDI.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\ConsoleAppDI.pdb
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.csproj.AssemblyReference.cache
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.AssemblyInfoInputs.cache
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.AssemblyInfo.cs
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.csproj.CopyComplete
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\refint\ConsoleAppDI.dll
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.pdb
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ConsoleAppDI.genruntimeconfig.cache
+C:\Users\rahul\OneDrive\Desktop\New folder (3)\PokemonAPIConsoleApp\ConsoleAppDI\ConsoleAppDI\obj\Debug\net6.0\ref\ConsoleAppDI.dll

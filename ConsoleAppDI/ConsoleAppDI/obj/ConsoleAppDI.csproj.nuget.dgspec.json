@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rahul\\Downloads\\ConsoleAppPokemonDI\\ConsoleAppDI\\ConsoleAppDI.csproj": {}
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\New folder (3)\\PokemonAPIConsoleApp\\ConsoleAppDI\\ConsoleAppDI\\ConsoleAppDI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rahul\\Downloads\\ConsoleAppPokemonDI\\ConsoleAppDI\\ConsoleAppDI.csproj": {
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\New folder (3)\\PokemonAPIConsoleApp\\ConsoleAppDI\\ConsoleAppDI\\ConsoleAppDI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rahul\\Downloads\\ConsoleAppPokemonDI\\ConsoleAppDI\\ConsoleAppDI.csproj",
+        "projectUniqueName": "C:\\Users\\rahul\\OneDrive\\Desktop\\New folder (3)\\PokemonAPIConsoleApp\\ConsoleAppDI\\ConsoleAppDI\\ConsoleAppDI.csproj",
         "projectName": "ConsoleAppDI",
-        "projectPath": "C:\\Users\\rahul\\Downloads\\ConsoleAppPokemonDI\\ConsoleAppDI\\ConsoleAppDI.csproj",
+        "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\New folder (3)\\PokemonAPIConsoleApp\\ConsoleAppDI\\ConsoleAppDI\\ConsoleAppDI.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rahul\\Downloads\\ConsoleAppPokemonDI\\ConsoleAppDI\\obj\\",
+        "outputPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\New folder (3)\\PokemonAPIConsoleApp\\ConsoleAppDI\\ConsoleAppDI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config",
