@@ -37,3 +37,5 @@ Services: Contains service interfaces and implementations for fetching Pokémon 
 ### Example Output:
 ![image](https://github.com/rahulvuppla/PokemonAPIConsoleApp/assets/79802988/38ace129-5cf6-40e8-ab41-58ae513df90f)
 
+In the Above output i have displayed only "Extra Strong Against,Doesnot Cause Damage to, Extra Weak against and doesnot cause damage from" Types because i  thought they 4 together make an easily readable and understandable output .I tried to keep it simple.
+
